@@ -17443,6 +17443,9 @@ img {
 .single-courses .courses-images a img {
     width: 100%;
     border-radius: 15px;
+    width: 100%;
+    height: 237px;
+    object-fit: cover;
 }
 .single-courses .courses-images .courses-option {
     position: absolute;
